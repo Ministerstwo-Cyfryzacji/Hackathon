@@ -1,0 +1,9 @@
+[submodule "jkrol"]
+	path = jkrol
+	url = https://github.com/JKrol/GovHack.git
+[submodule "mjasinski5"]
+	path = mjasinski5
+	url = https://github.com/mjasinski5/hackathon.git
+[submodule "zielonediably"]
+	path = zielonediably
+	url = https://github.com/zielonediably/lekirefundowane
